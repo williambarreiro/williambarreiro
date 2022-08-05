@@ -1,8 +1,7 @@
-## Hi, I'm William Barreiro 👋
+<h2 align="center">Hi, I'm William Barreiro 👋</h2>
+<h3 align="center">I'm a Computer Engineer currently developing applications with Flutter/Dart 🎯</h3>
 
-### I'm a Computer Engineer currently developing applications with Flutter/Dart 🎯
-
----
+<br>
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WilliamFB&show_icons=true&theme=tokyonight&count_private=true"/>
@@ -22,7 +21,7 @@
   <img align="center" alt="TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
 </div>
 
----
+##
 
 <div align="center">
   <a href="https://www.linkedin.com/in/williambarreiro/">
