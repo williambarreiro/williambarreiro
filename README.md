@@ -1,14 +1,17 @@
-<h2 align="center">Hi, I'm William Barreiro 👋</h2>
-<h3 align="center">I'm a Computer Engineer currently developing applications with Flutter/Dart 🎯</h3>
+<h2>I'm William Barreiro 👋</h2>
+
+<div>📖 Computer Engineer</div>
+<div>📱 Mobile Developer</div>
+<div>🎯 Currently working with Flutter/Dart</div>
 
 <br>
 
-<div align="center">
+<div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WilliamFB&show_icons=true&theme=tokyonight&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamFB&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-<div style="display: inline_block" align="center">
+<div style="display: inline_block">
   <br>
   <img align="center" alt="Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
   <img align="center" alt="Dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
@@ -23,7 +26,7 @@
 
 ##
 
-<div align="center">
+<div>
   <a href="https://www.linkedin.com/in/williambarreiro/">
     <img src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a> 
