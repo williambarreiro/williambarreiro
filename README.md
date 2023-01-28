@@ -1,6 +1,6 @@
 <h2>I'm William Barreiro 👋</h2>
 
-<img height="210em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamFB&layout=compact&langs_count=8&theme=tokyonight" align="right"/>
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamFB&layout=compact&langs_count=8&theme=tokyonight" align="right"/>
 
 <div>📖 Computer Engineer</div>
 <div>📱 Mobile Developer</div>
