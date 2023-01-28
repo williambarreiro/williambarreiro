@@ -1,15 +1,10 @@
 <h2>I'm William Barreiro 👋</h2>
 
+<img height="210em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamFB&layout=compact&langs_count=8&theme=tokyonight" align="right"/>
+
 <div>📖 Computer Engineer</div>
 <div>📱 Mobile Developer</div>
 <div>🎯 Currently working with Flutter/Dart</div>
-
-<br>
-
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WilliamFB&show_icons=true&theme=tokyonight&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamFB&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
 
 <div style="display: inline_block">
   <br>
