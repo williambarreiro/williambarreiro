@@ -1,10 +1,10 @@
-<h2>I'm William Barreiro 👋</h2>
+<h2>Hi, I'm William Barreiro!</h2>
 
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamFB&layout=compact&langs_count=8&theme=tokyonight" align="right"/>
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamFB&layout=compact&langs_count=8&theme=dark" align="right"/>
 
-<div>📖 Computer Engineer</div>
-<div>📱 Mobile Developer</div>
-<div>🎯 Currently working with Flutter/Dart</div>
+<div>&rarr; Computer Engineer</div>
+<div>&rarr; Mobile Developer</div>
+<div>&rarr; Currently working with Flutter/Dart</div>
 
 <div style="display: inline_block">
   <br>
