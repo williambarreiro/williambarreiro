@@ -1,6 +1,4 @@
-<h2>Hi, I'm William Barreiro!</h2>
-
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=williambarreiro&layout=compact&langs_count=8&theme=dark" align="right"/>
+<h2>I'm William Barreiro</h2>
 
 <div>&rarr; Computer Engineer</div>
 <div>&rarr; Mobile Developer</div>
